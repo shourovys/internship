@@ -1,0 +1,21 @@
+learning path
+
+1-1 create html file.
+
+1-2 Use VS Code for Html
+
+1-3 Getting Introduced With Paragraph Bold And Italic
+
+1-4 Different Types Of Heading And Strong Tag
+
+1-5 Html Tag Attribute, Anchor, Href, Navigate
+
+1-6 Display Image Online Image, Local Image, Folder Image
+
+1-7 List, Container Tag, Ordered List, Unordered List
+
+1-8 Button, Input Text Password, Div, Small, Br
+
+1-9 Html Structure, Head, Body, Title, Meta Tag
+
+1-10  5 Types Of HTML Tags
