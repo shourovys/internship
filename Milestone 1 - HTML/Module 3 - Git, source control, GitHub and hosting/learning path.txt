@@ -1,0 +1,19 @@
+learning path
+
+3-1 GitHub Introduction
+
+3-2 Install git, create GitHub repository
+
+3-3 Introduction to Git init, git add, git commit
+
+3-4 Set origin, Git push, git pull, and repo overview
+
+3-5 Send small incremental changes to GitHub
+
+3-6 Common GitHub related issues faced by new developer
+
+3-7 Create git branch, merge branches
+
+3-8 git pull, toggle branch, merge conflict
+
+3-9 Git & GitHub overall summary

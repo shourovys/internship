@@ -1,0 +1,21 @@
+learning path
+
+2-1 Introduction To CSS, Getting Started With CSS
+
+2-2 Style Tag, Embedded Style, Named Color, Hexcode, Rgb
+
+2-3 Background-Color, Height, Width, Font, CSS Measuring Units
+
+2-4 CSS Id, Class, Apply Styles To Multiple Elements, Id Vs Class
+
+2-5 Style A Group Of Elements, Style A Small Portion Of Text
+
+2-6 Border, Border Radius, Margin, Different Ways To Set Margin
+
+2-7 Padding, Different Ways To Set Padding, CSS Box Model
+
+2-8 Text Align, Display, Inline, Block, Inline-Block, External CSS
+
+2-9 External Inline CSS File Display Inline And Block
+
+2-10 CSS Module Summary
