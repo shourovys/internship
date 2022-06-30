@@ -1,0 +1,2 @@
+1. Explore all input type.
+2. How to add favicon in webpage
