@@ -1,0 +1,2 @@
+1. Read about all html tag - https://www.w3schools.com/TAgs/default.asp
+2. Recommend blog about html - https://www.tutorialstonight.com/html-tags-list-with-examples.php
