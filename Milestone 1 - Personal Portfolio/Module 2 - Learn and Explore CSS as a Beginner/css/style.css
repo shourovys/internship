@@ -1,0 +1,38 @@
+#hello {
+  color: #fff;
+  background-color: blueviolet;
+  font-size: 50px;
+}
+.heading {
+  color: red;
+  background-color: blue;
+  text-align: center;
+}
+.heading2 {
+  color: palegreen;
+  width: 200px;
+  border: 10px solid red;
+  border-radius: 10px;
+  /* margin: 100px; */
+  margin-left: 100px;
+  margin-top: 300px;
+  padding: 20px;
+  padding-top: 40px;
+  display: inline-block;
+}
+.container {
+  background-color: black;
+  width: 500px;
+}
+#heading-sub {
+  /* display: inline-block; */
+  color: aqua;
+  padding: 10px;
+  margin: 100px;
+}
+.block-type {
+  display: inline;
+}
+.inline-type {
+  display: block;
+}
