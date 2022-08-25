@@ -36,3 +36,11 @@
 .inline-type {
   display: block;
 }
+.flex-container {
+  display: flex;
+}
+
+.flex-container p {
+  width: 100px;
+  text-align: center;
+}
