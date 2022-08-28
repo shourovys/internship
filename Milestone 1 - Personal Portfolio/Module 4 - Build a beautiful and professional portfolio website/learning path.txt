@@ -1,0 +1,19 @@
+learning path
+
+4-1 Module Introduction, project overview and git setup
+
+4-2 Simple image background remove, set fancy background
+
+4-3 Set google fonts and install live server for auto refresh
+
+4-4 Header partial style by using span
+
+4-5 Put container, side by side, image size, Link button style
+
+4-6 Dream area, Background image, background-repeat
+
+4-7 Experience area, refactor flexible container, meaningful class name
+
+4-8 Box shadow, background image, experience title change
+
+4-9 Border image, footer, GitHub pages hosting, live link
